@@ -22,10 +22,6 @@
 
 ## ⚡ `whoami`
 
-</div>
-
-<div align="center">
-
 | 👤 | **Tushar Kumar** |
 |:---:|:---|
 | 🎓 | B.Tech AI/ML — VIT Chennai |
@@ -35,21 +31,13 @@
 | 📧 | tusharkumarjuly14@gmail.com |
 | 🌐 | [github.com/tushar1121s](https://github.com/tushar1121s) |
 
-</div>
-
 <br/>
 
-<div align="center">
-
-[![](https://img.shields.io/badge/🟢%20Open%20to%20Opportunities-00ff9d?style=for-the-badge&labelColor=0d0d14&color=00ff9d)](https://github.com/tushar1121s)
-[![](https://img.shields.io/badge/📍%20India-7c6af7?style=for-the-badge&labelColor=0d0d14&color=7c6af7)](https://github.com/tushar1121s)
-[![](https://img.shields.io/badge/🎓%20VIT%20Chennai-ff6b6b?style=for-the-badge&labelColor=0d0d14&color=ff6b6b)](https://github.com/tushar1121s)
-
-</div>
+[![](https://img.shields.io/badge/🟢%20Open%20to%20Opportunities-00ff9d?style=for-the-badge&labelColor=0d0d14)](https://github.com/tushar1121s)
+[![](https://img.shields.io/badge/📍%20India-7c6af7?style=for-the-badge&labelColor=0d0d14)](https://github.com/tushar1121s)
+[![](https://img.shields.io/badge/🎓%20VIT%20Chennai-ff6b6b?style=for-the-badge&labelColor=0d0d14)](https://github.com/tushar1121s)
 
 <br/>
-
-<div align="center">
 
 > *" I build performance-focused software systems — clean architecture,*
 > *real concurrency, practical system design. Not just CRUD apps. "*
@@ -64,13 +52,11 @@
 
 ## 🚀 `ls ./projects --sort=impact`
 
-*Three real projects. No fillers. No tutorials.*
-
 </div>
 
-<br/>
-
 ---
+
+<br/>
 
 <div align="center">
 
@@ -82,22 +68,25 @@
 ![TLS/SNI](https://img.shields.io/badge/TLS%2FSNI-ff88ff?style=flat-square)
 ![PCAP](https://img.shields.io/badge/PCAP-ff88ff?style=flat-square)
 
+*A multithreaded network analysis engine written in Java that operates on real network packet captures.*
+
 </div>
 
-A **multithreaded network analysis engine** written in Java that operates on real network packet captures. Goes deep into packet-level data — not a toy project.
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  📦  PCAP Parser       →  Reads & decodes real traffic captures  │
-│  🔁  Flow Tracker      →  Five-Tuple hashing per connection      │
-│  🔐  TLS SNI Extract   →  Classifies domains without decryption  │
-│  🚦  Rule Engine       →  Configurable filters + analytics       │
-│  ⚡  Concurrency       →  Multithreaded, minimal lock contention  │
-└─────────────────────────────────────────────────────────────────┘
-```
+<br/>
+
+| ⚡ Component | 🔍 What It Does |
+|:---|:---|
+| 📦 **PCAP Parser** | Reads and decodes real network traffic capture files at the binary level |
+| 🔁 **Flow Tracker** | Five-Tuple hashing — tracks every unique connection statefully by src IP, dst IP, ports & protocol |
+| 🔐 **TLS SNI Extractor** | Peeks inside encrypted TLS handshakes to classify domains without breaking encryption |
+| 🚦 **Rule Engine** | Applies configurable filtering rules and generates detailed analytics reports |
+| ⚡ **Concurrency Engine** | Multithreaded architecture designed for high-throughput packet processing with minimal lock contention |
 
 <br/>
 
 ---
+
+<br/>
 
 <div align="center">
 
@@ -110,23 +99,26 @@ A **multithreaded network analysis engine** written in Java that operates on rea
 ![S3](https://img.shields.io/badge/S3-ff9a20?style=flat-square&logo=amazons3&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-ff9a20?style=flat-square&logo=amazonaws&logoColor=white)
 
+*A fully event-driven cloud-native backend on AWS — zero servers, fully managed, built to scale.*
+
 </div>
 
-A **fully event-driven cloud-native backend** on AWS — zero servers to manage. Every component is a managed service wired together through events.
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  ⚡  Lambda        →  Ingestion, processing & serving functions  │
-│  🔗  API Gateway   →  Clean REST endpoints with throttling       │
-│  🗄️  DynamoDB      →  NoSQL storage for articles at scale        │
-│  ⏰  EventBridge   →  Auto-triggers pipeline on schedule         │
-│  📊  CloudWatch    →  Logging, metrics & alerting                │
-│  🪣  S3            →  Raw data lake for unprocessed content       │
-└─────────────────────────────────────────────────────────────────┘
-```
+<br/>
+
+| ☁️ Service | 🔍 Role in the System |
+|:---|:---|
+| ⚡ **Lambda** | Serverless functions independently handle ingestion, processing and API serving |
+| 🔗 **API Gateway** | Exposes clean versioned REST endpoints with built-in throttling and auth |
+| 🗄️ **DynamoDB** | NoSQL storage engine for categorised and indexed news articles at any scale |
+| ⏰ **EventBridge** | Cron-style scheduler that auto-triggers the ingestion pipeline |
+| 📊 **CloudWatch** | Centralised logging, metrics dashboards and alerting across all functions |
+| 🪣 **S3** | Raw data lake storing unprocessed news content before pipeline processing |
 
 <br/>
 
 ---
+
+<br/>
 
 <div align="center">
 
@@ -139,21 +131,22 @@ A **fully event-driven cloud-native backend** on AWS — zero servers to manage.
 ![SQLite](https://img.shields.io/badge/SQLite-a89cf7?style=flat-square&logo=sqlite&logoColor=white)
 ![QR Code](https://img.shields.io/badge/QR%20Code-00ff9d?style=flat-square)
 
+*Passwordless file sharing where your audio file is the cryptographic key. No accounts. No passwords.*
+
 </div>
 
-**Passwordless file sharing where your audio file is the cryptographic key.** No accounts. No passwords. No weak credentials.
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🎵  Upload        →  File to protect + audio file as key       │
-│  🔑  Key Derive    →  SHA-256(audio_bytes) = 256-bit key         │
-│  🛡️  Encrypt       →  AES-GCM + random 12-byte nonce            │
-│  📦  Share         →  Unique Room Code + QR Code generated       │
-│  🔽  Decrypt       →  Same audio → same key → file unlocked      │
-│  🧹  Cleanup       →  All files auto-purged after 24 hours       │
-└─────────────────────────────────────────────────────────────────┘
-```
+<br/>
 
-> ❌ A **single bit change** in the audio file = completely different key = instant decryption failure
+| 🔐 Step | 🔍 What Happens Under the Hood |
+|:---|:---|
+| 🎵 **Upload** | User selects any file to protect + an audio file as the encryption key |
+| 🔑 **Key Derivation** | `SHA-256(audio_bytes)` derives a deterministic 256-bit key from raw audio |
+| 🛡️ **Encryption** | AES-GCM encrypts the file using a freshly generated random 12-byte nonce |
+| 📦 **Distribution** | Backend returns a unique Room Code and a scannable QR Code for the receiver |
+| 🔽 **Decryption** | Receiver uploads same audio → same key derived → file instantly unlocked |
+| 🧹 **Auto Cleanup** | Server automatically purges all encrypted files and records after 24 hours |
+
+> ❌ A **single bit change** in the audio file produces a completely different key — decryption fails immediately
 
 <br/>
 
@@ -165,20 +158,40 @@ A **fully event-driven cloud-native backend** on AWS — zero servers to manage.
 
 *Every skill backed by a real project above.*
 
+</div>
+
 <br/>
+
+<div align="center">
+
+**━━━━━━━━━━━━━━━━━━━ 💻 Languages ━━━━━━━━━━━━━━━━━━━**
 
 ![Java](https://img.shields.io/badge/Java-0d0d14?style=for-the-badge&logo=openjdk&logoColor=ff6b6b)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d14?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![Python](https://img.shields.io/badge/Python-0d0d14?style=for-the-badge&logo=python&logoColor=a89cf7)
+
+<br/>
+
+**━━━━━━━━━━━━━━━━━━━━ 🔧 Backend ━━━━━━━━━━━━━━━━━━━━**
+
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d14?style=for-the-badge&logo=nodedotjs&logoColor=00ff9d)
 ![Express](https://img.shields.io/badge/Express-0d0d14?style=for-the-badge&logo=express&logoColor=00ff9d)
 ![Flask](https://img.shields.io/badge/Flask-0d0d14?style=for-the-badge&logo=flask&logoColor=a89cf7)
-![React](https://img.shields.io/badge/React-0d0d14?style=for-the-badge&logo=react&logoColor=00d8ff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d0d14?style=for-the-badge&logo=tailwindcss&logoColor=00d8ff)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d14?style=for-the-badge&logo=html5&logoColor=ff6b6b)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d14?style=for-the-badge&logo=css3&logoColor=00d8ff)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0d0d14?style=for-the-badge&logoColor=4cffee)
+![System Design](https://img.shields.io/badge/System%20Design-0d0d14?style=for-the-badge&logoColor=4cffee)
 
 <br/>
+
+**━━━━━━━━━━━━━━━━━━━ ⚛️ Frontend ━━━━━━━━━━━━━━━━━━━━**
+
+![React](https://img.shields.io/badge/React-0d0d14?style=for-the-badge&logo=react&logoColor=00d8ff)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d14?style=for-the-badge&logo=html5&logoColor=ff6b6b)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d14?style=for-the-badge&logo=css3&logoColor=00d8ff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0d0d14?style=for-the-badge&logo=tailwindcss&logoColor=00d8ff)
+
+<br/>
+
+**━━━━━━━━━━━━━━━━━━━━ ☁️ Cloud & AWS ━━━━━━━━━━━━━━━━━━━━**
 
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-0d0d14?style=for-the-badge&logo=awslambda&logoColor=ff9a20)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-0d0d14?style=for-the-badge&logo=amazondynamodb&logoColor=ff9a20)
@@ -189,15 +202,29 @@ A **fully event-driven cloud-native backend** on AWS — zero servers to manage.
 
 <br/>
 
+**━━━━━━━━━━━━━━━━ 🔐 Security & Networking ━━━━━━━━━━━━━━━━**
+
 ![AES-GCM](https://img.shields.io/badge/AES--GCM-0d0d14?style=for-the-badge&logoColor=ff88ff)
 ![SHA-256](https://img.shields.io/badge/SHA--256-0d0d14?style=for-the-badge&logoColor=ff88ff)
 ![TLS/SNI](https://img.shields.io/badge/TLS%2FSNI-0d0d14?style=for-the-badge&logoColor=ff88ff)
-![PCAP](https://img.shields.io/badge/PCAP%20Analysis-0d0d14?style=for-the-badge&logoColor=4cffee)
+![PCAP Analysis](https://img.shields.io/badge/PCAP%20Analysis-0d0d14?style=for-the-badge&logoColor=4cffee)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0d0d14?style=for-the-badge&logoColor=4cffee)
-![DSA](https://img.shields.io/badge/DSA-0d0d14?style=for-the-badge&logoColor=4cffee)
+
+<br/>
+
+**━━━━━━━━━━━━━━━━━━━━ 🧠 Core CS ━━━━━━━━━━━━━━━━━━━━**
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0d0d14?style=for-the-badge&logoColor=4cffee)
 ![OOP](https://img.shields.io/badge/OOP-0d0d14?style=for-the-badge&logoColor=4cffee)
 ![Multithreading](https://img.shields.io/badge/Multithreading-0d0d14?style=for-the-badge&logoColor=4cffee)
+![OS](https://img.shields.io/badge/Operating%20Systems-0d0d14?style=for-the-badge&logoColor=4cffee)
+
+<br/>
+
+**━━━━━━━━━━━━━━━━━━━━ 🛠️ Tools ━━━━━━━━━━━━━━━━━━━━**
+
 ![Git](https://img.shields.io/badge/Git-0d0d14?style=for-the-badge&logo=git&logoColor=ff6b6b)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d14?style=for-the-badge&logo=github&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-0d0d14?style=for-the-badge&logo=linux&logoColor=f7df1e)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0d0d14?style=for-the-badge&logo=visualstudiocode&logoColor=00d8ff)
 
