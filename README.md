@@ -1,272 +1,263 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:00ff9d,50:7c6af7,75:ff6b6b,100:0a0a0f&height=300&section=header&text=Tushar%20Kumar&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=42&stroke=00ff9d&strokeWidth=3&desc=Backend%20Architect%20%7C%20Network%20Analysis%20%7C%20Cloud%20Systems&descAlignY=62&descSize=18&descColor=ffffffbb" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,20:00ff9d,50:7c6af7,80:ff6b6b,100:0a0a0f&height=320&section=header&text=Tushar%20Kumar&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=42&stroke=00ff9d&strokeWidth=2&desc=Backend%20Architect%20%7C%20Network%20Analysis%20%7C%20Cloud%20Systems&descAlignY=62&descSize=18&descColor=ffffffbb" width="100%" />
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&width=700&lines=🎓+B.Tech+AI/ML+%40+VIT+Chennai;⚙️+Backend+%26+Systems+Engineer;🔐+Cryptography+%26+Network+Security;☁️+AWS+Serverless+Specialist;🚀+Open+to+Internships+%26+Collaboration)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=tushar1121s&theme=tokyonight&no-bg=true&margin-w=15&column=5" width="100%" />
-
-<br/>
+</div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tushar1121s.tushar1121s&style=for-the-badge&color=00ff9d&labelColor=0a0a0f&label=👁️+PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/tushar1121s?style=for-the-badge&color=7c6af7&labelColor=0a0a0f&logo=github&label=FOLLOWERS" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/tushar1121s?style=for-the-badge&color=ff6b6b&labelColor=0a0a0f&logo=github&label=TOTAL+STARS" />
-</div>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&width=700&lines=🎓+B.Tech+AI%2FML+%40+VIT+Chennai;⚙️+Backend+%26+Systems+Engineer;🔐+Cryptography+%26+Network+Security;☁️+AWS+Serverless+Specialist;🚀+Open+to+Internships+%26+Collaboration)](https://git.io/typing-svg)
 
 <br/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=tushar1121s.tushar1121s&style=for-the-badge&color=00ff9d&labelColor=0a0a0f&label=Profile%20Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/tushar1121s?style=for-the-badge&color=7c6af7&labelColor=0a0a0f&logo=github&label=Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/tushar1121s?style=for-the-badge&color=ff6b6b&labelColor=0a0a0f&logo=github&label=Stars" />
+
+</div>
 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=⚡+About+Me&fontSize=36&fontAlignY=70&fontColor=00ff9d&fontFamily=Orbitron" />
+</div>
 
-## ⚡ `System.whoami()`
+<br/>
 
-<table align="center" style="border: none; width: 100%;">
-  <tr>
-    <td width="55%" style="vertical-align: top; border: none; padding-right: 20px;">
-      <h3> 🧬 Background.log </h3>
-      <p>I am <b>Tushar Kumar</b>, a 3rd-year B.Tech undergraduate at <b>VIT Chennai</b> specializing in AI/ML. But my heart beats for <b>System Architecture</b> and <b>Security</b>.</p>
-      <p>I build software that doesn't just work—it scales. From low-level <b>Packet Inspection</b> to high-level <b>Serverless Cloud</b> pipelines, I love exploring how data moves securely across the wire.</p>
-      <ul>
-        <li>📍 Based in <b>India 🇮🇳</b></li>
-        <li>🎓 Currently in <b>6th Semester (3rd Year)</b></li>
-        <li>🏏 <b>Cricket Enthusiast:</b> Die-hard fan of Test Matches (The Ashes is peak!).</li>
-        <li>🗣️ <b>Continuous Learner:</b> Actively practicing English communication to match my tech skills.</li>
-      </ul>
-      <br/>
-      <a href="https://github.com/tushar1121s"><img src="https://img.shields.io/badge/🟢%20Open%20to%20Opportunities-00ff9d?style=for-the-badge&labelColor=0d0d14" /></a>
-    </td>
-    <td width="45%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=tushar1121s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D111700" alt="GitHub Stats" width="100%" />
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=1200&pause=300&color=00FF9D&width=580&lines=const+Tushar+%3D+%7B" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=1200&pause=250&color=ffffffcc&width=580&lines=++++role%3A+%22Software+Development+Engineer%22%2C" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=1200&pause=260&color=ffffffcc&width=580&lines=++++stack%3A+%5B%22Java%22%2C+%22Python%22%2C+%22React%22%2C+%22AWS%22%5D%2C" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=1200&pause=270&color=ffffffcc&width=580&lines=++++loves%3A+%5B%22Clean+code%22%2C+%22Scalability%22%2C+%22DSA%22%5D%2C" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=1200&pause=280&color=ffffffcc&width=580&lines=++++goal%3A+%22Build+production-ready+systems%22%2C" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=1200&pause=290&color=7C6AF7&width=580&lines=++++status%3A+%22🟢+Open+to+SDE+Internships%22" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=1200&pause=300&color=00FF9D&width=580&lines=%7D%3B" />
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,aws,linux,git&perline=3" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=7C6AF7&center=true&vCenter=true&width=280&lines=Full-Stack+Engineer;React+%2B+Java+Developer;Backend+Focused+Builder;DSA+Practitioner;System+Design+Learner" />
+
+</td>
+</tr>
 </table>
 
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2500&pause=900&color=7C6AF7&center=true&vCenter=true&width=800&lines=⚡+Building+production-ready+applications+%7C+🚀+Scalable+system+design+%7C+🎯+Seeking+SDE+Internships" />
 </div>
 
 ---
 
 <div align="center">
-
-## 🛠️ `cat-skills.json` (Advanced Arsenal)
-
-**━━━━━━━━━━━━━━━━━━━━━━━ 💻 Core Languages ━━━━━━━━━━━━━━━━━━━━━━━**
-
-![Java](https://img.shields.io/badge/Java-0d0d14?style=for-the-badge&logo=openjdk&logoColor=ff6b6b)
-![Python](https://img.shields.io/badge/Python-0d0d14?style=for-the-badge&logo=python&logoColor=a89cf7)
-![C++](https://img.shields.io/badge/C++-0d0d14?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d14?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-
-<br/>
-
-**━━━━━━━━━━━━━━━━━━━━━━ 🔧 Backend Engineering ━━━━━━━━━━━━━━━━━━━━━━**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d0d14?style=for-the-badge&logo=nodedotjs&logoColor=00ff9d)
-![Express](https://img.shields.io/badge/Express-0d0d14?style=for-the-badge&logo=express&logoColor=00ff9d)
-![Flask](https://img.shields.io/badge/Flask-0d0d14?style=for-the-badge&logo=flask&logoColor=a89cf7)
-![SQLite](https://img.shields.io/badge/SQLite-0d0d14?style=for-the-badge&logo=sqlite&logoColor=00ff9d)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0d0d14?style=for-the-badge&logoColor=4cffee)
-
-<br/>
-
-**━━━━━━━━━━━━━━━━━━━━━━ ⚛️ Frontend & Design ━━━━━━━━━━━━━━━━━━━━━━**
-
-![React](https://img.shields.io/badge/React-0d0d14?style=for-the-badge&logo=react&logoColor=00d8ff)
-![Vite](https://img.shields.io/badge/Vite-0d0d14?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d0d14?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d14?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d14?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-<br/>
-
-**━━━━━━━━━━━━━━━━━━━━━━ ☁️ Cloud (AWS Expert) ━━━━━━━━━━━━━━━━━━━━━━**
-
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-0d0d14?style=for-the-badge&logo=awslambda&logoColor=ff9a20)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-0d0d14?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6)
-![S3](https://img.shields.io/badge/Amazon%20S3-0d0d14?style=for-the-badge&logo=amazons3&logoColor=569A31)
-![EventBridge](https://img.shields.io/badge/EventBridge-0d0d14?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-0d0d14?style=for-the-badge&logo=amazonaws&logoColor=00ff9d)
-
-<br/>
-
-**━━━━━━━━━━━━━━━━━━━━ 🔐 Security & Networking ━━━━━━━━━━━━━━━━━━━━**
-
-![AES-GCM](https://img.shields.io/badge/AES--GCM-0d0d14?style=for-the-badge&logoColor=ff88ff)
-![SHA-256](https://img.shields.io/badge/SHA--256-0d0d14?style=for-the-badge&logoColor=ff88ff)
-![TLS/SNI](https://img.shields.io/badge/TLS%2FSNI-0d0d14?style=for-the-badge&logoColor=ff88ff)
-![PCAP](https://img.shields.io/badge/PCAP%20Analysis-0d0d14?style=for-the-badge&logoColor=4cffee)
-![DPI](https://img.shields.io/badge/Packet%20Inspection-0d0d14?style=for-the-badge&logoColor=00ff9d)
-
-<br/>
-
-**━━━━━━━━━━━━━━━━━━━━━━━ 🛠️ DevOps & Tools ━━━━━━━━━━━━━━━━━━━━━━━**
-
-![Git](https://img.shields.io/badge/Git-0d0d14?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d14?style=for-the-badge&logo=github&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-0d0d14?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-0d0d14?style=for-the-badge&logo=docker&logoColor=2496ED)
-![VS Code](https://img.shields.io/badge/VSCode-0d0d14?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=🛠️+Tech+Stack&fontSize=36&fontAlignY=70&fontColor=7c6af7&fontFamily=Orbitron" />
 </div>
 
 <br/>
 
+<div align="center">
 
+| 💻 Core & Backend | ⚛️ Frontend & UI | ☁️ Cloud & DevOps |
+|:-:|:-:|:-:|
+| ![Java](https://skillicons.dev/icons?i=java&theme=dark) ![Python](https://skillicons.dev/icons?i=python&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) ![JS](https://skillicons.dev/icons?i=js&theme=dark) | ![React](https://skillicons.dev/icons?i=react&theme=dark) ![Vite](https://skillicons.dev/icons?i=vite&theme=dark) ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark) ![HTML](https://skillicons.dev/icons?i=html&theme=dark) | ![AWS](https://skillicons.dev/icons?i=aws&theme=dark) ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Git](https://skillicons.dev/icons?i=git&theme=dark) |
+| Node.js · Express · Flask · SQLite | CSS · Vite | GitHub Actions · VSCode |
 
+</div>
 
 ---
 
 <div align="center">
-
-## 🚀 `ls -R ./Featured_Work`
-
-*Engineering solutions that go beyond the basic CRUD.*
-
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=🚀+Featured+Work&fontSize=36&fontAlignY=70&fontColor=ff6b6b&fontFamily=Orbitron" />
 <br/>
-
-<div align="center">
-
-### 🔬 01 · Deep Packet Inspection Engine
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Multithreading](https://img.shields.io/badge/High%20Concurrency-00ff9d?style=for-the-badge)
-![Networking](https://img.shields.io/badge/TCP%2FIP-7c6af7?style=for-the-badge)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=700&color=7C6AF7&center=true&vCenter=true&width=750&lines=Engineering+Real+Systems+%7C+Scalable+%7C+Secure+%7C+Production-Ready" />
 </div>
-
-| ⚡ Layer | 🔍 Deep Technical Insight |
-|:---|:---|
-| 📦 **Packet Decoding** | Directly parses binary PCAP files, extracting Layer 2 (Ethernet), Layer 3 (IPv4/v6), and Layer 4 (TCP/UDP) headers with zero-copy overhead. |
-| 🔁 **Flow Management** | Implements a **Five-Tuple Hashing** mechanism (Src/Dst IP, Ports, Protocol) to statefully track connections across the network. |
-| 🔐 **SNI Intelligence** | Peeks into encrypted TLS ClientHello handshakes to identify destination domains before encryption completes—enabling domain-level filtering. |
-| 🚦 **Performance** | Built on a multithreaded architecture designed to minimize lock contention, allowing for high-throughput packet processing. |
 
 <br/>
 
 ---
 
+### 🔬 Deep Packet Inspection Engine
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=900&pause=200&color=4c67f7&multiline=true&width=860&height=220&lines=const+DPI_Engine+%3D+%7B;++++domain%3A+%22Network+Security+%26+Systems%22%2C;++++core%3A+%5B%22Low-level+PCAP+parsing+(Ethernet+→+IP+→+TCP%2FUDP)%22%2C;++++++++%22Stateful+flow+tracking+via+five-tuple+hashing%22%2C;++++++++%22TLS+ClientHello+inspection+for+SNI+extraction%22%2C;++++++++%22High-throughput+multithreaded+pipeline%22%5D%2C;++++arch%3A+%22Concurrent+processing%2C+zero-copy+parsing%2C+minimal+lock+contention%22%2C;++++impact%3A+%22Deep+visibility+into+encrypted+%26+plain+network+traffic%22;+%7D%3B" />
+
+<br/>
+
+![Network Security](https://img.shields.io/badge/Domain-Network%20Security-4c67f7?style=flat-square&logo=wireshark&logoColor=white)
+![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Multithreaded](https://img.shields.io/badge/Arch-Multithreaded%20Pipeline-0a0a0f?style=flat-square)
+![TLS](https://img.shields.io/badge/Feature-TLS%20SNI%20Inspection-7c6af7?style=flat-square)
+
+---
+
+### 🛡️ AudioShield · Secure Audio-Key Sharing
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=900&pause=200&color=00c97a&multiline=true&width=860&height=220&lines=const+AudioShield+%3D+%7B;++++domain%3A+%22Applied+Cryptography+%26+Full-Stack+Systems%22%2C;++++core%3A+%5B%22Audio+→+SHA-256+→+deterministic+256-bit+key%22%2C;++++++++%22AES-256-GCM+for+secure+authenticated+encryption%22%2C;++++++++%22QR-based+room+sharing+mechanism%22%2C;++++++++%22Automatic+data+deletion+(TTL-based+cleanup)%22%5D%2C;++++arch%3A+%22React+%2B+Flask+%7C+Zero-trust+%7C+Bit-level+key+uniqueness%22%2C;++++impact%3A+%22Transforms+any+audio+clip+into+a+portable+cryptographic+key%22;+%7D%3B" />
+
+<br/>
+
+![Cryptography](https://img.shields.io/badge/Domain-Applied%20Cryptography-00c97a?style=flat-square&logo=keybase&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Backend-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![AES-256](https://img.shields.io/badge/Security-AES--256--GCM-00ff9d?style=flat-square)
+
+---
+
+### ☁️ Serverless News Aggregation Platform
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=900&pause=200&color=ff6b6b&multiline=true&width=860&height=220&lines=const+Serverless_News_System+%3D+%7B;++++domain%3A+%22Cloud+Architecture+%26+Distributed+Systems%22%2C;++++core%3A+%5B%22Event-driven+ingestion+using+EventBridge%22%2C;++++++++%22Serverless+compute+via+AWS+Lambda%22%2C;++++++++%22NoSQL+storage+with+DynamoDB+(optimized+GSIs)%22%2C;++++++++%22Secure+API+delivery+through+API+Gateway%22%5D%2C;++++arch%3A+%22Fully+serverless+auto-scaling+%7C+No+idle+compute%22%2C;++++impact%3A+%22Real-time+news+aggregation+with+zero+server+management%22;+%7D%3B" />
+
+<br/>
+
+![Cloud](https://img.shields.io/badge/Domain-Cloud%20Architecture-ff6b6b?style=flat-square&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Compute-AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DB-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![EventBridge](https://img.shields.io/badge/Infra-EventBridge%20%2B%20API%20GW-E25444?style=flat-square)
+
+---
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=📊+GitHub+Activity&fontSize=36&fontAlignY=70&fontColor=00ff9d&fontFamily=Orbitron" />
+</div>
+
+<br/>
+
 <div align="center">
 
-### 🛡️ 02 · AudioShield (Audio-QR Secure Share)
+<!-- 
+  OPTION A — if your GitHub Actions generates the snake, use this (recommended):
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushar1121s/tushar1121s/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushar1121s/tushar1121s/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tushar1121s/tushar1121s/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Cryptography](https://img.shields.io/badge/AES--GCM-ff88ff?style=for-the-badge)
+  OPTION B — custom animated snake (no GitHub Actions needed), host snake-animation.svg in your repo:
+-->
+<img src="https://raw.githubusercontent.com/tushar1121s/tushar1121s/main/snake-animation.svg" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar1121s&bg_color=0a0a0f&color=00ff9d&line=7c6af7&point=ff6b6b&area=true&area_color=7c6af720&hide_border=true&radius=10&custom_title=Contribution+Graph" width="100%" />
+
+<br/>
 
 </div>
 
-*An innovative multi-layer secure data sharing system where your **Audio File** is the cryptographic key.*
-
-- 🎵 **Key Derivation:** Applies `SHA-256` hashing on raw audio bytes to generate a deterministic 256-bit AES key.
-- 🛡️ **Encryption:** Uses **AES-256-GCM** for authenticated encryption, ensuring both data confidentiality and integrity.
-- 📦 **Distribution:** Generates a room-based QR system for seamless peer-to-peer data access.
-- 🧹 **Zero Persistence:** Implements an automated backend cleanup routine that purges data after 24 hours.
-
-> [!CAUTION]
-> Even a **1-bit change** in the audio file produces a completely different hash—rendering the data unrecoverable.
+<table width="100%">
+<tr>
+<td width="49%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar1121s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=ffffff&border_color=7c6af7" width="100%" />
+</td>
+<td width="2%"></td>
+<td width="49%" align="center">
+<img src="https://streak-stats.demolab.com?user=tushar1121s&theme=dark&background=0d0d14&ring=00ff9d&fire=ff6b6b&currStreakLabel=00ff9d&sideLabels=7c6af7&dates=ffffffaa&border=00ff9d30" width="100%" />
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
 
 <div align="center">
-
-### ☁️ 03 · Serverless News Aggregator
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=🧠+Problem+Solving&fontSize=36&fontAlignY=70&fontColor=ff6b6b&fontFamily=Orbitron" />
 </div>
-
-*A fully event-driven, cloud-native architecture built for infinite scalability with zero server management.*
-
-1. **Ingestion:** `EventBridge` triggers cron-based `Lambda` functions to scrape real-time news sources.
-2. **Processing:** Data is normalized and sentiment-analyzed before being stored as JSON documents.
-3. **Storage:** `DynamoDB` serves as a high-velocity NoSQL store with optimized GSI (Global Secondary Indexes).
-4. **Delivery:** `API Gateway` provides secure, throttled endpoints for frontend consumption.
-
-<br/>
-
----
-
-<div align="center">
-
-## 📊 `git_log --visualize`
-
-<img src="https://raw.githubusercontent.com/tushar1121s/tushar1121s/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar1121s&bg_color=0a0a0f&color=00ff9d&line=7c6af7&point=ffffff&area=true&hide_border=false&border_color=00ff9d40&radius=10" width="100%" />
 
 <br/>
 
 <table width="100%">
 <tr>
-<td width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar1121s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D111700" width="100%" /> </td>
-<td width="50%"> <img src="https://streak-stats.demolab.com?user=tushar1121s&theme=dark&background=0d0d14&ring=00ff9d&fire=ff6b6b&currStreakLabel=00ff9d&border=00ff9d40" width="100%" /> </td>
+<td width="50%" valign="top">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=1800&pause=400&color=ffffff&multiline=true&width=420&height=220&lines=const+DSA_Progress+%3D+%7B;++++platform%3A+%22LeetCode%22%2C;++++timezone%3A+%22IST+(Asia%2FKolkata)%22%2C;++++topics%3A+%5B%22Sliding+Window%22%2C;+++++++++%22Heaps+%2F+Priority+Queues%22%2C;+++++++++%22Trees+%26+Graphs%22%2C;+++++++++%22Dynamic+Programming%22%5D%2C;++++mindset%3A+%22Consistency+over+intensity%22;+%7D%3B" />
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-kum__tushar14-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kum_tushar14/)
+
+<br/>
+
+![Sliding Window](https://img.shields.io/badge/📐-Sliding%20Window-7c6af7?style=flat-square)
+![Heaps](https://img.shields.io/badge/🏔️-Heaps%20%2F%20Priority%20Queues-ff6b6b?style=flat-square)
+![Trees](https://img.shields.io/badge/🌳-Trees%20%26%20Graphs-00c97a?style=flat-square)
+![DP](https://img.shields.io/badge/🔗-Dynamic%20Programming-4c67f7?style=flat-square)
+
+<br/><br/>
+
+<sub>⚠️ Heatmap may reflect UTC timezone — platform limitation</sub>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://leetcard.jacoblin.cool/kum_tushar14?theme=dark&font=JetBrains%20Mono&ext=activity&border=0&radius=12" width="100%" />
+
+</td>
 </tr>
 </table>
 
-</div>
-
+<br/>
 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=📡+Let's+Connect&fontSize=36&fontAlignY=70&fontColor=7c6af7&fontFamily=Orbitron" />
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=1800&pause=600&color=00ff9d&center=true&vCenter=true&width=700&lines=Open+to+SDE+Internships+%26+Opportunities;Let's+Build+Something+Impactful+Together+🚀" />
+</div>
 
-## 🧠 `cat solving-stats.json`
+<br/>
 
-<table align="center" style="border: none; width: 100%;">
-  <tr>
-    <td width="50%" style="vertical-align: top; border: none;">
-      <h3> 🧩 LeetCode Progress </h3>
-      <p>I actively solve DSA problems to master <b>Heaps, Sliding Windows, and Trees</b>. My goal is to build memory-efficient algorithms.</p>
-      <a href="https://leetcode.com/u/kum_tushar14/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-    </td>
-    <td width="50%" style="border: none;">
-      <img src="https://leetcard.jacoblin.cool/kum_tushar14?theme=dark&font=JetBrains%20Mono&ext=activity" width="100%" />
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="55%" valign="middle">
+
+```javascript
+const Contact = {
+  email    : "tusharkumarjuly14@gmail.com",
+  github   : "github.com/tushar1121s",
+  linkedin : "linkedin.com/in/tushaar-kumar",
+  location : "Chennai, India 🇮🇳",
+  status   : "🟢 Open to SDE opportunities"
+};
+```
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+[![Gmail](https://img.shields.io/badge/Gmail-tusharkumarjuly14-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharkumarjuly14@gmail.com)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-tushar1121s-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tushar1121s)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tushaar--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushaar-kumar-bb3ab128a/)
+
+</td>
+</tr>
 </table>
 
-</div>
-
----
+<br/>
 
 <div align="center">
 
-## 📡 `contact --reach-out`
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
-| 💬 **Let's Build Together** | 🔗 **Quick Links** |
-| :--- | :--- |
-| 📧 **Email:** [tusharkumarjuly14@gmail.com](mailto:tusharkumarjuly14@gmail.com) | 👨‍💻 **GitHub:** [@tushar1121s](https://github.com/tushar1121s) |
-| 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/tushaar-kumar-bb3ab128a/) | 📍 **Location:** Chennai, India 🇮🇳 |
+<br/><br/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,20:7c6af7,60:00ff9d,100:0a0a0f&height=200&section=footer&text=Thanks+for+Visiting!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%" />
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:7c6af7,75:00ff9d,100:0a0a0f&height=180&section=footer&text=Thanks%20for%20Exploring!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" />
-
-<br/>
-
-<sub>⭐ **If you find my work useful—drop a star. It genuinely helps!**</sub>
-<sub>*This profile is auto-updated every 24 hours via GitHub Actions.*</sub>
+<sub>⭐ If you find my work useful — consider dropping a star &nbsp;|&nbsp; ⚡ Auto-updated via GitHub Actions</sub>
 
 </div>
-
