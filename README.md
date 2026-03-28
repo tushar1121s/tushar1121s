@@ -138,7 +138,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushar1121s/tushar1121s/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tushar1121s/tushar1121s/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-<img src="https://raw.githubusercontent.com/tushar1121s/tushar1121s/main/snake-animation.svg" width="100%" />
 
 <br/>
 
@@ -151,7 +150,7 @@
 <table width="100%">
 <tr>
 <td width="49%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar1121s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=ffffff&border_color=7c6af7" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar1121s&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff9d&text_color=ffffff&langs_count=8&cache_seconds=86400" width="100%" />
 </td>
 <td width="2%"></td>
 <td width="49%" align="center">
