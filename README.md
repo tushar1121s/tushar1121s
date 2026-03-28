@@ -77,7 +77,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=🚀+Featured+Work&fontSize=36&fontAlignY=70&fontColor=ff6b6b&fontFamily=Orbitron" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=+Featured+Work&fontSize=36&fontAlignY=70&fontColor=ff6b6b&fontFamily=Orbitron" />
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=700&color=7C6AF7&center=true&vCenter=true&width=750&lines=Engineering+Real+Systems+%7C+Scalable+%7C+Secure+%7C+Production-Ready" />
 </div>
