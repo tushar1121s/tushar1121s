@@ -50,7 +50,7 @@
 
 <div align="center">
 
-## 🚀 `ls ./projects --sort=impact`
+##  `ls./projects--sort=impact`
 
 </div>
 
@@ -154,7 +154,7 @@
 
 <div align="center">
 
-## 🛠️ `cat skills.json`
+## 🛠️ `cat-skills.json`
 
 *Every skill backed by a real project above.*
 
@@ -236,7 +236,7 @@
 
 <div align="center">
 
-## 📊 `git log --stats`
+## 📊 `git_log--stats`
 
 </div>
 
@@ -244,7 +244,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tushar1121s&theme=dark&background=0d0d14&ring=00ff9d&fire=7c6af7&currStreakLabel=00ff9d&border=00ff9d40&sideLabels=aaaaaa&dates=666680&stroke=ffffff10" />
+<img src="https://streak-stats.demolab.com?user=tushar1121s&theme=dark&background=0d0d14&ring=00ff9d&fire=7c6af7&currStreakLabel=00ff9d&border=00ff9d40&sideLabels=aaaaaa&dates=666680&stroke=ffffff10"/>
 
 </div>
 
