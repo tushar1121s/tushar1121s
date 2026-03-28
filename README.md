@@ -133,16 +133,11 @@
 
 <div align="center">
 
-<!-- 
-  OPTION A — if your GitHub Actions generates the snake, use this (recommended):
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushar1121s/tushar1121s/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushar1121s/tushar1121s/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tushar1121s/tushar1121s/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-
-  OPTION B — custom animated snake (no GitHub Actions needed), host snake-animation.svg in your repo:
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushar1121s/tushar1121s/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushar1121s/tushar1121s/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tushar1121s/tushar1121s/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 <img src="https://raw.githubusercontent.com/tushar1121s/tushar1121s/main/snake-animation.svg" width="100%" />
 
 <br/>
